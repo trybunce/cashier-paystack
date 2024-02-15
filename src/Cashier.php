@@ -24,7 +24,7 @@ class Cashier
     /**
      * Indicates if migrations will be run.
      */
-    public static bool $runsMigrations = true;
+    public static bool $runsMigrations = false;
 
     /**
      * Indicates if routes will be registered.
