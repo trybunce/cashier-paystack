@@ -1,5 +1,5 @@
 {
-    "name": "initafricahq/cashier-paystack",
+    "name": "bunce/cashier-paystack",
     "description": "A Laravel Cashier Wrapper that provides an expressive, fluent interface to Paystack's subscription invoicing services.",
     "keywords": ["laravel", "paystack", "billing", "cashier"],
     "license": "MIT",
